@@ -1,1 +1,12 @@
+dispaly: grid;
+grid-template-coloumns: 50% 50%;
+}
 
+.conteiner__botao{
+  background-color: var(--botao-azul);
+  border-radius: 5px;
+  podding: 1em;
+  color: var(--branco-principal);
+  display: block;
+  text-decoration: nome;
+}
